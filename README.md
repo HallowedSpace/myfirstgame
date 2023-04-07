@@ -1,2 +1,2 @@
-# myfirstgame
-My first ever simple game!
+# My First Game
+My first ever game written in javascript.
